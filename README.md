@@ -45,6 +45,29 @@ Total_revenue - $817,860.05
 
 Average_revenue - $16.82
 
+1. The busiest time of the day is between 12pm and 1pm which is Lunch period. For 12pm, a total of 2,520 orders was received, 6,776 quantites of Pizzas were made and revenue generated was $111,877.9 while for 1pm, a total of 2,455 orders was received, 6,413 quantities of Pizza made and revenue generated was $106,065.7.
+
+![Screenshot 2024-01-08 085813](https://github.com/GoutamKuiri99/Pizza_sales_Dashboard_Excel_Project/assets/154737280/7f6f5f1e-74bb-4349-9340-95bbc13b4714)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
