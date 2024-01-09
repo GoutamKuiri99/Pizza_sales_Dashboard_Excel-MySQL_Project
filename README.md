@@ -1,7 +1,10 @@
 # 🍕PIZZA  SALES ANALYSIS ON MICROSOFT EXCEL
 
+ <img align="right" alt="Pizza"   width="350" src="https://user-images.githubusercontent.com/72607039/148701706-7638bdb7-83de-444d-bbcd-8780660f77da.gif">
+
 ## Overview:-
-I developed a comprehensive Microsoft Excel dashboard for analyzing pizza sales data, leveraging Microsoft SQL Server and Power queries. 
+I developed a comprehensive Microsoft Excel dashboard for analyzing pizza sales 
+data, leveraging Microsoft SQL Server and Power queries. 
 This project aimed to provide actionable insights for optimizing sales strategies and improving overall business performance.
 
 ## Problem Statement:-
