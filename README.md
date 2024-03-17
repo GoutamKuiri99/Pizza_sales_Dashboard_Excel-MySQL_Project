@@ -1,4 +1,4 @@
-# 🍕PIZZA  SALES ANALYSIS ON MICROSOFT EXCEL
+# 🍕PIZZA  SALES ANALYSIS ON MICROSOFT EXCEL/MySQL
 
  <img align="right" alt="Pizza"   width="350" src="https://user-images.githubusercontent.com/72607039/148701706-7638bdb7-83de-444d-bbcd-8780660f77da.gif">
 
